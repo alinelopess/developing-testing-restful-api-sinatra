@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      uri: mongodb+srv://nbooks:qaninja@cluster0.x7xko.mongodb.net/nbooks?retryWrites=true&w=majority
+      options:
+        server_selection_timeout: 5
